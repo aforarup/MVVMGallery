@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  photoGallery
+
+  Created by Arup Saha on 11/10/17.
+  Copyright © 2017 Arup Saha. All rights reserved.
+*/
+"Gallery" = "Gallery";
+"photo" = "photo";
+"photos" = "photos";
+"Camera" = "Camera";
+"Photo Library" = "Photo Library";
+"Flickr" = "Flickr";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Dropbox" = "Dropbox";
+"Flickr Photos" = "Flickr Photos";
+"Error" = "Error";
+"Cancel" = "Cancel";
+"Loading..." = "Loading...";
+"OK" = "OK";
+"Shared" = "Shared";
+"Not Shared" = "Not Shared";
+"Search photos on Flickr" = "Search photos on Flickr";
+"Credits" = "Credits";
+"App Icon" = "App Icon";
+"Dropbox is not installed" = "Dropbox is not installed";
+"Facebook is not installed" = "Facebook is not installed";
+"Twitter is not installed" = "Twitter is not installed";
+"Photo Viewer" = "Photo Viewer";
+"Edit" = "Edit";
+"Done" = "Done";
+"Adjust brightness by moving the slider" = "Adjust brightness by moving the slider";
